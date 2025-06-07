@@ -14,5 +14,3 @@ This dashboard analyzes sales data from 2003 to 2005 using a sample dataset.
 - Power BI
 - Sample sales data (CSV from Kaggle)
 
-## Screenshots
-
